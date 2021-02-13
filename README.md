@@ -1,5 +1,5 @@
 # maven-project
-Source code for myteam
+Source code for myteam and for Sonar Cloud testing
 
 Check out our Latest DevOps PDF book,
 
